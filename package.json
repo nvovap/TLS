@@ -6,6 +6,7 @@
   "dependencies": {
     "express": "^4.14.0",
     "fs": "0.0.2",
+    "jsftp": "^1.5.3",
     "tls": "0.0.1"
   },
   "devDependencies": {},
